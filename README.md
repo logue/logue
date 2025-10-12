@@ -1,4 +1,17 @@
-## Hi there 👋
+## [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=logue&theme=flat)]
+
+***
+
+## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+![](https://raw.githubusercontent.com/logue/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/logue/github-stats/master/generated/languages.svg)
+
+***
+
+## [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+![Logue's GitHub stats](https://github-readme-stats.vercel.app/api?username=logue&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logue&size_weight=0.5&count_weight=0.5)
 
 <!--
 **logue/logue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
