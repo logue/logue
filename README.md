@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Logue.
 
 🤖 **AI-Augmented Developer** | 📦 **Vue.js Library Author** | 🌏 **OSS Contributor**
 
