@@ -1,29 +1,37 @@
-## [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=logue&theme=flat)]
+# 👋 Hi, I'm [Your Name]
 
-***
+🤖 **AI-Augmented Developer** | 📦 **Vue.js Library Author** | 🌏 **OSS Contributor**
 
-## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-![](https://raw.githubusercontent.com/logue/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/logue/github-stats/master/generated/languages.svg)
+## 🚀 What I Do
 
-***
+I build tools that developers love, leveraging AI to accelerate development 10x:
 
-## [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-![Logue's GitHub stats](https://github-readme-stats.vercel.app/api?username=logue&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logue&size_weight=0.5&count_weight=0.5)
+- **vue-codemirror6**: Vue 3 + CodeMirror 6 integration (120K monthly downloads)
+- **vite-vuetify-ts-starter**: Production-ready starter template
+- **@logue/vue2-helpers**: Vue 2 composition API helpers
+- **Universal-Markdown**: Post markdown parser written rust (rebuilt in 2 weeks with AI)
 
-<!--
-**logue/logue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Open Source Contributions
 
-Here are some ideas to get you started:
+10+ years of OSS translation & localization:
+- 🔥 Firestorm Viewer, Alchemy Viewer (Japanese translation)
+- 🦙 Linden Lab Official Viewer (merged 2023)
+- 🏃 Marathon Trilogy (fan scenarios) [^1]
+- 💬 Simple Machines Forums (official Japanese translation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and more.
+
+## 💡 Philosophy
+
+**AI writes code. I architect solutions.**
+
+I focus on design, logic, and prompting while AI handles implementation - 
+achieving 10x productivity gains without compromising quality.
+
+## 📫 Connect
+
+- 💼 LinkedIn: <https://www.linkedin.com/in/logue/>
+- 🐦 Twitter: <https://x.com/logue256>
+- 📧 Email: <logue@hotmail.co.jp>
+
+[^1]: Marathon Red, Marathon Rubicon, Japanese Runtime.
