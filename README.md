@@ -4,34 +4,36 @@
 
 ## 🚀 What I Do
 
-I build tools that developers love, leveraging AI to accelerate development 10x:
+I build tools that developers love, leveraging AI to accelerate development 10x.
+**Empowering 150,000+ developers monthly** through my open-source contributions.
 
-- **vue-codemirror6**: Vue 3 + CodeMirror 6 integration (120K monthly downloads)
-- **vite-vuetify-ts-starter**: Production-ready starter template
-- **@logue/vue2-helpers**: Vue 2 composition API helpers
-- **Universal-Markdown**: Post markdown parser written rust (rebuilt in 2 weeks with AI)
+- **[vue-codemirror6](https://github.com/logue/vue-codemirror6)**: Vue 3 + CodeMirror 6 integration (120K monthly downloads)
+- **[umd-core](https://github.com/logue/umd-core)**: Universal Markdown parser written in Rust (Rebuilt in 2 weeks with AI)
+- **[vite-vuetify-ts-starter](https://github.com/logue/vite-vuetify-ts-starter)**: Production-ready starter template
+- **[@logue/vue2-helpers](https://github.com/logue/vue2-helpers)**: Vue 2 composition API helpers
+
+## 🛠 Tech Stack
+
+- **Primary:** TypeScript, Vue 3 (Nuxt 3), Vuetify 3, Vite
+- **Systems:** Rust (Tauri), PHP (Laravel), Java (Spring Boot)
+- **Philosophy:** **"AI writes code. I architect solutions."**
 
 ## 🌐 Open Source Contributions
 
-10+ years of OSS translation & localization:
-- 🔥 Firestorm Viewer, Alchemy Viewer (Japanese translation)
-- 🦙 Linden Lab Official Viewer (merged 2023)
-- 🏃 Marathon Trilogy (fan scenarios) [^1]
-- 💬 Simple Machines Forums (official Japanese translation)
+### Ongoing Official Roles (Core Maintainer / Contributor)
+- **🔥 Firestorm Viewer**: **Official Contributor & Maintainer** for Japanese Localization.
+- **Alchemy Viewer**: **Official Contributor** for Japanese Localization and UX maintenance.
 
-and more.
+### Past Contributions & Achievements
+- **🦙 Linden Lab Official Viewer**: Contributions merged into the official trunk (2023).
+- **🏃 Marathon Trilogy**: Developed Japanese Runtime and scenarios (Red, Rubicon).
+- **Simple Machines Forums**: for Japanese Translation and Community Support.
 
-## 💡 Philosophy
+## ❤ Support & Connect
 
-**AI writes code. I architect solutions.**
-
-I focus on design, logic, and prompting while AI handles implementation - 
-achieving 10x productivity gains without compromising quality.
-
-## 📫 Connect
-
-- 💼 LinkedIn: <https://www.linkedin.com/in/logue/>
-- 🐦 Twitter: <https://x.com/logue256>
-- 📧 Email: <logue@hotmail.co.jp>
+If my tools have helped your workflow, I'd appreciate your support!
+- 🎁 [Sponsor me on GitHub](https://github.com/sponsors/logue)
+- ☕ [Buy me a coffee (Ko-fi)](https://ko-fi.com/logue)
+- 💼 [LinkedIn](https://www.linkedin.com/in/logue/) | 🐦 [Twitter](https://x.com/logue256) | 📧 [Email](mailto:logue@hotmail.co.jp)
 
 [^1]: Marathon Red, Marathon Rubicon, Japanese Runtime.
