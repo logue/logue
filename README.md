@@ -26,8 +26,8 @@ I build tools that developers love, leveraging AI to accelerate development 10x.
 - **[umd-core](https://github.com/logue/umd-core)**: Universal Markdown parser in Rust (Rebuilt in 2 weeks with AI)
 - **[vite-vuetify-ts-starter](https://github.com/logue/vite-vuetify-ts-starter)**: Production-ready starter template
 - **[tauri-vuetify-starter](https://github.com/logue/tauri-vuetify-starter)**: Next-gen desktop app foundation
-- **[Drop Compress Image
-- **[VRM2SL](https://github.com/logue/vrm2sl)**: VRM avatar to SecondLife avatar converter.
+  - **[Drop Compress Image](https://github.com/logue/DropWebP)**: Next-gen image compression tool.
+  - **[VRM2SL](https://github.com/logue/vrm2sl)**: VRM avatar to SecondLife avatar converter.
 
 ### ♪ Music Works
 
