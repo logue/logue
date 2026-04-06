@@ -2,6 +2,8 @@
 
 🤖 **AI-Augmented Developer** | 📦 **Vue.js Library Author** | 🌏 **Official OSS Maintainer**
 
+[🚀 View My Living Portfolio (v.logue.dev)](https://v.logue.dev/)
+
 ## 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,23 +20,36 @@
 ## 🚀 Featured Projects
 
 I build tools that developers love, leveraging AI to accelerate development 10x.
-**Empowering 150,000+ developers monthly.**
+**Empowering 170,000+ developers monthly.**
 
 - **[vue-codemirror6](https://github.com/logue/vue-codemirror6)**: Vue 3 + CodeMirror 6 integration (140K monthly downloads)
 - **[umd-core](https://github.com/logue/umd-core)**: Universal Markdown parser in Rust (Rebuilt in 2 weeks with AI)
 - **[vite-vuetify-ts-starter](https://github.com/logue/vite-vuetify-ts-starter)**: Production-ready starter template
 - **[tauri-vuetify-starter](https://github.com/logue/tauri-vuetify-starter)**: Next-gen desktop app foundation
+- **[Drop Compress Image
+- **[VRM2SL](https://github.com/logue/vrm2sl)**: VRM avatar to SecondLife avatar converter.
+
+### ♪ Music Works
+
+Sound is just another form of waveform manipulation.
+
+<a href="https://soundcloud.com/logue256/sets/bgm" target="_blank">
+<figure style="width:256px; display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/2916e24c-321e-4c82-b3b3-b14691ad7ca7" alt="speaking anything ya" width="256" />
+  <figcaption style="display: block">BGM EP.</figcaption>
+</figure>
+</a>
 
 ## 🌐 Open Source Contributions
 
 ### Ongoing Official Roles (Core Maintainer / Contributor)
-- **🔥 Firestorm Viewer**: **Official Contributor & Maintainer** (Japanese Localization)
-- **Alchemy Viewer**: **Official Contributor** (Japanese Localization & UX maintenance)
+- **🔥 [Firestorm Viewer](https://www.firestormviewer.org/)**: **Official Contributor & Maintainer** (Japanese Localization)
+- **⚗️ [Alchemy Viewer](https://www.alchemyviewer.org/)**: **Official Contributor** (Japanese Localization & UX maintenance)
 
 ### Achievements
 - **🦙 Linden Lab Official Viewer**: Contributions merged into the official trunk (2023).
-- **🏃 Marathon Trilogy**: Developed Japanese Runtime and scenarios (Red, Rubicon).
-- **Simple Machines Forums**: **Official Lead** (Japanese Translation & Community Support)
+- **🏃 [Marathon Trilogy](https://mjolnir.logue.be/)**: Developed Japanese Runtime and scenarios (Red, Rubicon, 2007-2019).
+- **Simple Machines Forums**: **Official Lead** (Japanese Translation & Community Support, 2005)
 
 ## ❤ Support & Connect
 
