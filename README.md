@@ -59,6 +59,8 @@ If my tools have helped your workflow, I'd appreciate your support!
 - 💼 [LinkedIn](https://www.linkedin.com/in/logue/) | 🐦 [Twitter](https://x.com/logue256) | 📧 [Email](mailto:logue@hotmail.co.jp)
 
 <!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/logue" target="_blank" rel="noopener noreferrer"><img alt="logue's scores on LAPRAS are as follows: Engineering: 3.7 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.44 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.7&b=3.57&i=3.44&b1=%23212529&b2=%23adb5bd&i1=%238c9eff&i2=%2376ff03&l=en" width="400" ></a>  
+Last Updated on 4/22/2026, 5:56:57 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [^1]: Marathon Red, Marathon Rubicon, Japanese Runtime.
