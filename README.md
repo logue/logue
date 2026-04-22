@@ -29,6 +29,8 @@ I build tools that developers love, leveraging AI to accelerate development 10x.
   - **[Drop Compress Image](https://github.com/logue/DropWebP)**: Next-gen image compression tool.
   - **[VRM2SL](https://github.com/logue/vrm2sl)**: VRM avatar to SecondLife avatar converter. (It took three weeks from the design document to the implementation of the minimum necessary bone conversion.)
 
+...and more.
+
 ### ♪ Music Works
 
 Sound is just another form of waveform manipulation.
@@ -55,5 +57,8 @@ If my tools have helped your workflow, I'd appreciate your support!
 - 🎁 [Sponsor me on GitHub](https://github.com/sponsors/logue)
 - ☕ [Buy me a coffee (Ko-fi)](https://ko-fi.com/logue)
 - 💼 [LinkedIn](https://www.linkedin.com/in/logue/) | 🐦 [Twitter](https://x.com/logue256) | 📧 [Email](mailto:logue@hotmail.co.jp)
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 [^1]: Marathon Red, Marathon Rubicon, Japanese Runtime.
