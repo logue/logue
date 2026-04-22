@@ -5,16 +5,24 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+# Grant GITHUB_TOKEN write access to repository contents so actions that update files can push
+permissions:
+  contents: write
+
 jobs:
   update-card:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: kawamataryo/lapras-card-readme@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate/Update LAPRAS card
+        uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: logue
-          # 以下オプション
-          # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           ICON_FIRST: "#8c9eff"
           ICON_SECOND: "#76ff03"
           BACKGROUND_FIRST: "#212529"
