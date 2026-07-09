@@ -15,6 +15,7 @@
 
 - **Primary:** TypeScript, Vue 3 (Nuxt 3 / Nitro), Vuetify 3, Vite
 - **Systems:** Rust (Tauri), PHP (Laravel), Java (Spring Boot / ActiveJDBC)
+- **Next:** Rsbuild stack, Astro, WebComponents
 - **Philosophy:** **"AI writes code. I architect solutions."**
 
 ## 🚀 Featured Projects
@@ -45,6 +46,26 @@ Sound is just another form of waveform manipulation.
 ### Ongoing Official Roles (Core Maintainer / Contributor)
 - **🔥 [Firestorm Viewer](https://www.firestormviewer.org/)**: **Official Contributor & Maintainer** (Japanese Localization)
 - **⚗️ [Alchemy Viewer](https://www.alchemyviewer.org/)**: **Official Contributor** (Japanese Localization & UX maintenance)
+
+## 🗺️ Vision
+
+These libraries are building blocks toward a unified 
+AR navigation and tourism service — combining VRM avatars, 
+GIS routing, and voice AI into a browser-native experience 
+accessible to everyone, including people with disabilities.
+
+vue-vrm                → VRM character rendering
+vuetify-geojson-editor → GIS data editing
+Universal-Markdown     → Content authoring
+@logue/reverb          → Clean synthetic IR reverb (built from scratch due to license and transparency concerns)
+
+## 🧵 Everything is connected
+
+Most of my projects started as a personal itch to scratch,
+evolved into reusable tools, and became foundations 
+for the next challenge.
+
+20+ years of: problem → solution → generalization → repeat.
 
 ### Achievements
 - **🦙 Linden Lab Official Viewer**: Contributions merged into the official trunk (2023).
